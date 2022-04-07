@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tinto Varghese P
-- 👀 I’m interested in Python for Data Analysis and Data Visualization, Tableau, SQL, and Alteryx.
-<!-- - 🌱 I’m currently learning -->
+- 👀 I’m interested in Data Analysis and Data Visualization in Python, Tableau, SQL, and Alteryx.
+- 🌱 I’m currently learning Statistics.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me on LinkedIn : https://www.linkedin.com/in/tintovarghesep
 
